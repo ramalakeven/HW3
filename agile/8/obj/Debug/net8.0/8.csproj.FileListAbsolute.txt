@@ -1,0 +1,18 @@
+D:\дз по проге\ААААА БЛЯТЬ\8\obj\Debug\net8.0\8.GeneratedMSBuildEditorConfig.editorconfig
+D:\дз по проге\ААААА БЛЯТЬ\8\obj\Debug\net8.0\8.AssemblyInfoInputs.cache
+D:\дз по проге\ААААА БЛЯТЬ\8\obj\Debug\net8.0\8.AssemblyInfo.cs
+D:\дз по проге\ААААА БЛЯТЬ\8\obj\Debug\net8.0\8.csproj.CoreCompileInputs.cache
+D:\дз по проге\еще одна папка с домашками по agile\8\bin\Debug\net8.0\8.exe
+D:\дз по проге\еще одна папка с домашками по agile\8\bin\Debug\net8.0\8.deps.json
+D:\дз по проге\еще одна папка с домашками по agile\8\bin\Debug\net8.0\8.runtimeconfig.json
+D:\дз по проге\еще одна папка с домашками по agile\8\bin\Debug\net8.0\8.dll
+D:\дз по проге\еще одна папка с домашками по agile\8\bin\Debug\net8.0\8.pdb
+D:\дз по проге\еще одна папка с домашками по agile\8\obj\Debug\net8.0\8.GeneratedMSBuildEditorConfig.editorconfig
+D:\дз по проге\еще одна папка с домашками по agile\8\obj\Debug\net8.0\8.AssemblyInfoInputs.cache
+D:\дз по проге\еще одна папка с домашками по agile\8\obj\Debug\net8.0\8.AssemblyInfo.cs
+D:\дз по проге\еще одна папка с домашками по agile\8\obj\Debug\net8.0\8.csproj.CoreCompileInputs.cache
+D:\дз по проге\еще одна папка с домашками по agile\8\obj\Debug\net8.0\8.dll
+D:\дз по проге\еще одна папка с домашками по agile\8\obj\Debug\net8.0\refint\8.dll
+D:\дз по проге\еще одна папка с домашками по agile\8\obj\Debug\net8.0\8.pdb
+D:\дз по проге\еще одна папка с домашками по agile\8\obj\Debug\net8.0\8.genruntimeconfig.cache
+D:\дз по проге\еще одна папка с домашками по agile\8\obj\Debug\net8.0\ref\8.dll

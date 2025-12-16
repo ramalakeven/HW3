@@ -1,0 +1,28 @@
+D:\дз по проге\ААААА БЛЯТЬ\7\bin\Debug\net8.0\7.exe
+D:\дз по проге\ААААА БЛЯТЬ\7\bin\Debug\net8.0\7.deps.json
+D:\дз по проге\ААААА БЛЯТЬ\7\bin\Debug\net8.0\7.runtimeconfig.json
+D:\дз по проге\ААААА БЛЯТЬ\7\bin\Debug\net8.0\7.dll
+D:\дз по проге\ААААА БЛЯТЬ\7\bin\Debug\net8.0\7.pdb
+D:\дз по проге\ААААА БЛЯТЬ\7\obj\Debug\net8.0\7.GeneratedMSBuildEditorConfig.editorconfig
+D:\дз по проге\ААААА БЛЯТЬ\7\obj\Debug\net8.0\7.AssemblyInfoInputs.cache
+D:\дз по проге\ААААА БЛЯТЬ\7\obj\Debug\net8.0\7.AssemblyInfo.cs
+D:\дз по проге\ААААА БЛЯТЬ\7\obj\Debug\net8.0\7.csproj.CoreCompileInputs.cache
+D:\дз по проге\ААААА БЛЯТЬ\7\obj\Debug\net8.0\7.dll
+D:\дз по проге\ААААА БЛЯТЬ\7\obj\Debug\net8.0\refint\7.dll
+D:\дз по проге\ААААА БЛЯТЬ\7\obj\Debug\net8.0\7.pdb
+D:\дз по проге\ААААА БЛЯТЬ\7\obj\Debug\net8.0\7.genruntimeconfig.cache
+D:\дз по проге\ААААА БЛЯТЬ\7\obj\Debug\net8.0\ref\7.dll
+D:\дз по проге\еще одна папка с домашками по agile\7\bin\Debug\net8.0\7.exe
+D:\дз по проге\еще одна папка с домашками по agile\7\bin\Debug\net8.0\7.deps.json
+D:\дз по проге\еще одна папка с домашками по agile\7\bin\Debug\net8.0\7.runtimeconfig.json
+D:\дз по проге\еще одна папка с домашками по agile\7\bin\Debug\net8.0\7.dll
+D:\дз по проге\еще одна папка с домашками по agile\7\bin\Debug\net8.0\7.pdb
+D:\дз по проге\еще одна папка с домашками по agile\7\obj\Debug\net8.0\7.GeneratedMSBuildEditorConfig.editorconfig
+D:\дз по проге\еще одна папка с домашками по agile\7\obj\Debug\net8.0\7.AssemblyInfoInputs.cache
+D:\дз по проге\еще одна папка с домашками по agile\7\obj\Debug\net8.0\7.AssemblyInfo.cs
+D:\дз по проге\еще одна папка с домашками по agile\7\obj\Debug\net8.0\7.csproj.CoreCompileInputs.cache
+D:\дз по проге\еще одна папка с домашками по agile\7\obj\Debug\net8.0\7.dll
+D:\дз по проге\еще одна папка с домашками по agile\7\obj\Debug\net8.0\refint\7.dll
+D:\дз по проге\еще одна папка с домашками по agile\7\obj\Debug\net8.0\7.pdb
+D:\дз по проге\еще одна папка с домашками по agile\7\obj\Debug\net8.0\7.genruntimeconfig.cache
+D:\дз по проге\еще одна папка с домашками по agile\7\obj\Debug\net8.0\ref\7.dll
